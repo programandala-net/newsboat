@@ -30,7 +30,6 @@ ${HOME}/.cargo/bin/grcov \
     --service-number "${TRAVIS_BUILD_ID}" \
     --service-job-number "${TRAVIS_JOB_ID}" \
     --token "${COVERALLS_REPO_TOKEN}" \
-    --commit-sha "${TRAVIS_COMMIT}" \
     --vcs-branch "${branch}" \
     ${service_pull_request} \
     --ignore-not-existing \
