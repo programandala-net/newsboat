@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/newsboat/newsboat/issues\n"
 "POT-Creation-Date: 2020-03-20 17:58+0300\n"
 "PO-Revision-Date: 2020-04-21 23:43+0200\n"
-"Last-Translator: Marcos Cruz (programandala.net)\n"
+"Last-Translator: Marcos Cruz <visit_my_contact_page@programandala.net>\n"
 "Language-Team: ROOT <epsilon@correoe.no-ip.org>, OmeGa <omega@mailoo.org>, José Manuel García-Patos <josemanuel@gesaku.es>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -617,7 +617,7 @@ msgstr "Filtro: "
 
 #: src/feedlistformaction.cpp:504 src/view.cpp:225
 msgid "Do you really want to quit (y:Yes n:No)? "
-msgstr "¿Realmente quieres salir? (s:Sí n:No)"
+msgstr "¿Realmente quieres salir? (s:Sí n:No) "
 
 #: src/feedlistformaction.cpp:505 src/filebrowserformaction.cpp:123
 #: src/itemlistformaction.cpp:1464 src/view.cpp:227
